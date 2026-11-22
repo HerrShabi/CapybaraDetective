@@ -67,6 +67,11 @@ Ethan's (age 9) 4th game, after SuperCapybara, SupaCapy 2 and SuperCapybara 3. E
 - **The factory:** conveyor belts with pizzas, ovens, pizza robots, Chef Mozzarella in a cage (without her mustache!), and Pizza Boss under the **DOUGH MACHINE**. SuperCapybara pulls the lever: SPLAT, Pizza Boss is stuck in a giant dough blob. Copybara bursts in (you switch to him), handcuffs Pizza Boss, and opens the cage. The chef gets her **mustache back** ("Oh la la!").
 - **The pizza party** at the shop: everybody (even Chef Pesto and Danny Dough), confetti, "Free pizza for the detectives, FOREVER!", and Baby Capybara on the radio: "More cases... soon!"
 
+## Case 3 (designed 2026-11-22)
+
+- Ethan picked **case 3** as the next thing to design (instead of CAPY CIRCUIT stats / 2-player racing).
+- Case 3, Q1: **The Vanishing Ice Cream** 🍦: every ice cream in the city melts at the same time on a hot summer day... or is it? Someone is using a **secret heat ray**!
+
 ## Next
 
 - Case 3 (Ethan picks the idea).

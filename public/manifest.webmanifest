@@ -1,0 +1,16 @@
+{
+  "name": "SUPER CAPYBARA: POLICE DETECTIVE",
+  "short_name": "Capy Detective",
+  "description": "Ethan's 3D detective game: SuperCapybara finds the clues and Copybara catches the bad guys! Works without internet once installed.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#ffd23f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
